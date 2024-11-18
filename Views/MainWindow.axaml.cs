@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace NightbirdLauncher;
+namespace NightbirdLauncher.Views;
 
 public partial class MainWindow : Window
 {
