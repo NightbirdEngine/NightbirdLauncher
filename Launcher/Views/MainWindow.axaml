@@ -17,7 +17,7 @@
 	<StackPanel>
 		<StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Left">
 			<TextBlock Text="{Binding Test}" Padding="15" HorizontalAlignment="Left" VerticalAlignment="Stretch" FontSize="20"></TextBlock>
-			<Button Click="Button_Click" Content="Hello" HorizontalAlignment="Left" VerticalAlignment="Stretch" Padding="15"></Button>
+			<Button Click="Button_Click" Content="download" HorizontalAlignment="Left" VerticalAlignment="Stretch" Padding="15"></Button>
 		</StackPanel>
 	</StackPanel>
 </Window>
