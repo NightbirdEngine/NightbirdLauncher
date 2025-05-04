@@ -1,2 +1,3 @@
 # NightbirdLauncher
-Launcher for the Nightbird Engine
+
+The Nightbird Launcher is the editor launcher for Nightbird Projects. 
